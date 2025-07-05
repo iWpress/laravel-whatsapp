@@ -1,6 +1,7 @@
 {
-    "name": "missael-anda/laravel-whatsapp",
+    "name": "iwpress/laravel-whatsapp",
     "description": "A Whatsapp Business Cloud API wrapper for Laravel.",
+    "version": "0.8.6",
     "keywords": [
         "laravel",
         "whatsapp",
@@ -12,7 +13,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "MissaelAnda\\Whatsapp\\": "src/"
+            "iWpress\\Whatsapp\\": "src/"
         }
     },
     "authors": [
@@ -23,11 +24,11 @@
     ],
     "require": {
         "php": "^8.1",
-        "illuminate/contracts": "^9.0 || ^10.0 || ^11.0",
-        "illuminate/support": "^9.0 || ^10.0 || ^11.0",
-        "illuminate/http": "^9.0 || ^10.0 || ^11.0",
-        "illuminate/routing": "^9.0 || ^10.0 || ^11.0",
-        "illuminate/events": "^9.0 || ^10.0 || ^11.0"
+        "illuminate/contracts": "^9.0 || ^10.0 || ^11.0 || ^12.0",
+        "illuminate/support": "^9.0 || ^10.0 || ^11.0 || ^12.0",
+        "illuminate/http": "^9.0 || ^10.0 || ^11.0 || ^12.0",
+        "illuminate/routing": "^9.0 || ^10.0 || ^11.0 || ^12.0",
+        "illuminate/events": "^9.0 || ^10.0 || ^11.0 || ^12.0"
     },
     "extra": {
         "laravel": {
