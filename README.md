@@ -1,4 +1,4 @@
-# Whatsapp Business Cloud API for Laravel
+# Whatsapp Business Cloud API for Laravel 12
 
 A Laravel package for the [Whatsapp Business Cloud API](https://developers.facebook.com/docs/whatsapp/cloud-api).
 
