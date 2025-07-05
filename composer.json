@@ -1,7 +1,6 @@
 {
     "name": "iwpress/laravel-whatsapp",
     "description": "A Whatsapp Business Cloud API wrapper for Laravel.",
-    "version": "0.8.6",
     "keywords": [
         "laravel",
         "whatsapp",
